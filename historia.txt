@@ -1,9 +1,7 @@
 Esta es la historia de Freddy Vega
 Freddy Vega tiene 32 años y nació en Colombia
 Hoy hablaremos de su historia.
-
-Hablare de nuevo de mi hijo, orgulloso de el, 
-me puedo ver en el yo mismo, quisiera que llegue 
-a ser un buen hombre.
-
-Le encanta jugar al fútbol pero no le gusta practicar.
+he realizado un git checkout me trajo a este punto
+borrando el orgullo por mi hijo
+y ahora voy a guardar esto para verificar
+si podré volver a lo anerior.
