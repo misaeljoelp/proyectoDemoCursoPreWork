@@ -15,6 +15,7 @@ section{
     border: 1px solid #DDD;
     margin: 0 auto;
     line-height: 2em;
+    box-shadow: -15px 10px 35px -6px rgba(0,0,0,0.75);
 }
 
 h1{
@@ -28,6 +29,7 @@ h1{
     padding: 0.5em;
     font-weight: bold;
     font-size: 1.5em;
+    box-shadow: -15px 10px 35px -6px rgba(0,0,0,0.75);
 }
 .contenido{
     margin: 20px;
@@ -35,6 +37,4 @@ h1{
 h1,p{
     margin-bottom: 10px;
 }
-.amiga{
-    font-size: 3em;
-}
+
